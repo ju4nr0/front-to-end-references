@@ -15,6 +15,6 @@ Herramientas y Frameworks:
 
 - MongoDB: Base de datos no relacional cuyos registros son almacenados como documentos de tipo BSON: Binary JSON que permite que la lectura y escritura de datos sea muy rápida y de manera átomica.
 
-- Glunt
+- Glunt: Gestor de tareas para automatizar tareas, como refrescar navegador al hacer cambios de software, comprobar sintaxis si hay fichero e configuracion, etc.
 
 - Batarang: Extension de Google Chrome que añade herramientas y depuración para AngularJS
